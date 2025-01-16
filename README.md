@@ -3,4 +3,8 @@
 ## 2D SWE
 ![Alt Text](https://github.com/MelissaJessen/Shallow-Water-Equations-Animations/blob/main/toro2D_FVM_16012025_N%3D64_t%3D15.gif)
 
+## 2D idealised circular dam break problem
+![Alt Text](https://github.com/MelissaJessen/Shallow-Water-Equations-Animations/blob/main/toro2D_FVM_08112024_N128.gif)
+
+
 
