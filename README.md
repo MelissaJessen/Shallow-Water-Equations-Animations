@@ -3,6 +3,7 @@
 ## 1D linearized Shallow Water Equations on a sphere
 We consider the 1D linearized shallow water equations on a sphere.
 ![Alt Text](https://github.com/MelissaJessen/Shallow-Water-Equations-Animations/blob/main/1D_LSWE_sphere_17012025.gif)
+
 In the animation we see how the periodic boundary conditions are imposed, when the two waves meet. 
 
 ## 2D idealised circular dam break problem
